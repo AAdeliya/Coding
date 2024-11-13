@@ -4,7 +4,7 @@ import edu.princeton.cs.introcs.Picture;
 
 public class SeamCarving {
         public static void main(String[] args) {
-          Picture picture  = new Picture("");
+          Picture picture  = new Picture(" ");
           int width = picture.width();
           int height = picture.height();
 
