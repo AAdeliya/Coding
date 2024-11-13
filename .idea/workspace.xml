@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="calculator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SeamCarving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ShoertestsumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/longestcontinioussubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="SeamCarving algorithm">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeamCarving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeamCarving.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +109,29 @@
       <option name="project" value="LOCAL" />
       <updated>1718330531149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SeamCarving algorithm">
+      <option name="closed" value="true" />
+      <created>1731472473549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731472473549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SeamCarving algorithm">
+      <option name="closed" value="true" />
+      <created>1731472592920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731472592920</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator" />
+    <MESSAGE value="SeamCarving algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="SeamCarving algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
