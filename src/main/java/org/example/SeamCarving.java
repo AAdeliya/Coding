@@ -16,6 +16,7 @@ public class SeamCarving {
               energy = updateEnergyMap(picture);
           }
 
+
           picture.show();
 
         }
