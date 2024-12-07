@@ -5,6 +5,7 @@ public class relativeSortArray {
         int count[] = new int[1001];
         int maximum = 0;
         int i = 0;
+
         for (int j : arr1) {
             count[j]++;
             maximum = Math.max(maximum, j);
