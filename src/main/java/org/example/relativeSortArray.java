@@ -18,6 +18,7 @@ public class relativeSortArray {
                 while (count[j]-- > 0)
                     arr1[i++] = j;
             return arr1;
+            
         }
     }
 
