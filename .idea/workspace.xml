@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="GroupAnagram">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LengthofLastWord.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="another solution">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736196029727</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="LengthofLastWord">
+      <option name="closed" value="true" />
+      <created>1736271404681</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736271404681</updated>
+    </task>
+    <task id="LOCAL-00016" summary="another solution">
+      <option name="closed" value="true" />
+      <created>1736271592929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736271592929</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,7 +248,9 @@
     <MESSAGE value="SeamCarving algorithm" />
     <MESSAGE value="relativeSortArray" />
     <MESSAGE value="GroupAnagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="GroupAnagram" />
+    <MESSAGE value="LengthofLastWord" />
+    <MESSAGE value="another solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="another solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
