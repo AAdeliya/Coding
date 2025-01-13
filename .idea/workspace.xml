@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="reverse string 2 solutions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestSubstringLengthWithKDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaxSumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SmallestSubarray.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="sliding window">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findMaxAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GroupAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SeamCarving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SeamCarving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LongestSubstringLengthWithKDistinctCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestSubstringLengthWithKDistinctCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ShoertestsumArray.executor": "Debug",
-    "Application.SlidingWindowMaximum.executor": "Run",
-    "Application.longestcontinioussubarray.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoertestsumArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SlidingWindowMaximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestcontinioussubarray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.longestcontinioussubarray">
     <configuration name="SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.SlidingWindowMaximum" />
@@ -253,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736349257415</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="sliding window">
+      <option name="closed" value="true" />
+      <created>1736462126416</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736462126416</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,7 +268,8 @@
     <MESSAGE value="LengthofLastWord" />
     <MESSAGE value="another solution" />
     <MESSAGE value="reverse string 2 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse string 2 solutions" />
+    <MESSAGE value="sliding window" />
+    <option name="LAST_COMMIT_MESSAGE" value="sliding window" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
