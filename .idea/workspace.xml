@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="sliding window - findMaxAverage">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContainsDuplicatesII.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Contains Duplicate II">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736739669917</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Contains Duplicate II">
+      <option name="closed" value="true" />
+      <created>1736899741316</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736899741316</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,7 +285,8 @@
     <MESSAGE value="reverse string 2 solutions" />
     <MESSAGE value="sliding window" />
     <MESSAGE value="sliding window - findMaxAverage" />
-    <option name="LAST_COMMIT_MESSAGE" value="sliding window - findMaxAverage" />
+    <MESSAGE value="Contains Duplicate II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicate II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
