@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Reverse Vowels of a String">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IsSubsequence.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Guess Number Higher or Lower">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CountingBits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740675077808</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=" Is Subsequence">
+      <option name="closed" value="true" />
+      <created>1740683171510</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1740683171510</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Guess Number Higher or Lower">
+      <option name="closed" value="true" />
+      <created>1740771662916</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740771662916</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -341,7 +357,9 @@
     <MESSAGE value="coding tasks" />
     <MESSAGE value=" Greatest Common Divisor of Strings" />
     <MESSAGE value="Reverse Vowels of a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Vowels of a String" />
+    <MESSAGE value=" Is Subsequence" />
+    <MESSAGE value="Guess Number Higher or Lower" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guess Number Higher or Lower" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
