@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="counting bits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductofArrayExceptSelf.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="ProductofArrayExceptSelf">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TrappingRainWaterTwoPointers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740810622551</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ProductofArrayExceptSelf">
+      <option name="closed" value="true" />
+      <created>1740975167282</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740975167282</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,7 +377,8 @@
     <MESSAGE value=" Is Subsequence" />
     <MESSAGE value="Guess Number Higher or Lower" />
     <MESSAGE value="counting bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="counting bits" />
+    <MESSAGE value="ProductofArrayExceptSelf" />
+    <option name="LAST_COMMIT_MESSAGE" value="ProductofArrayExceptSelf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
