@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="ProductofArrayExceptSelf">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TrappingRainWaterTwoPointers.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="TrappingRainWater 2 approaches">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BestTimetoBuyandSellStockII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -355,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740975167282</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="TrappingRainWater 2 approaches">
+      <option name="closed" value="true" />
+      <created>1741041025292</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741041025292</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -378,7 +385,8 @@
     <MESSAGE value="Guess Number Higher or Lower" />
     <MESSAGE value="counting bits" />
     <MESSAGE value="ProductofArrayExceptSelf" />
-    <option name="LAST_COMMIT_MESSAGE" value="ProductofArrayExceptSelf" />
+    <MESSAGE value="TrappingRainWater 2 approaches" />
+    <option name="LAST_COMMIT_MESSAGE" value="TrappingRainWater 2 approaches" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
