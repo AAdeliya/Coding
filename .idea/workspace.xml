@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Contains Duplicates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestDigitInAAstring.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Second  largest digit in a string">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThirdMaximumNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -489,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742408307941</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Second  largest digit in a string">
+      <option name="closed" value="true" />
+      <created>1742482193906</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1742482193906</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Contains Duplicate II" />
     <MESSAGE value="Breadth-First Search (BFS)" />
     <MESSAGE value="kotlin" />
     <MESSAGE value="coding tasks" />
@@ -518,7 +525,8 @@
     <MESSAGE value="Pascal's Triangle" />
     <MESSAGE value="Build Array from Permutation" />
     <MESSAGE value="Contains Duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicates" />
+    <MESSAGE value="Second  largest digit in a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second  largest digit in a string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
