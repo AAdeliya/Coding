@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Second  largest digit in a string">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThirdMaximumNumber.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Third maximum element">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MakeTheStringGreat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00001" summary="calculator">
-      <option name="closed" value="true" />
-      <created>1718330315626</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1718330315626</updated>
     </task>
     <task id="LOCAL-00002" summary="calculator">
       <option name="closed" value="true" />
@@ -497,11 +490,26 @@
       <option name="project" value="LOCAL" />
       <updated>1742482193906</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Third maximum element">
+      <option name="closed" value="true" />
+      <created>1742483261446</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1742483261446</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Third maximum element">
+      <option name="closed" value="true" />
+      <created>1742483269174</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1742483269191</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Breadth-First Search (BFS)" />
     <MESSAGE value="kotlin" />
     <MESSAGE value="coding tasks" />
     <MESSAGE value=" Greatest Common Divisor of Strings" />
@@ -526,7 +534,8 @@
     <MESSAGE value="Build Array from Permutation" />
     <MESSAGE value="Contains Duplicates" />
     <MESSAGE value="Second  largest digit in a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second  largest digit in a string" />
+    <MESSAGE value="Third maximum element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third maximum element" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
