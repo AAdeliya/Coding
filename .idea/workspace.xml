@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Third maximum element">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MakeTheStringGreat.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="findMaxConsecutiveOnes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/reversedWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00002" summary="calculator">
-      <option name="closed" value="true" />
-      <created>1718330531149</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1718330531149</updated>
     </task>
     <task id="LOCAL-00003" summary="SeamCarving algorithm">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742483269191</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="findMaxConsecutiveOnes">
+      <option name="closed" value="true" />
+      <created>1742582775723</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1742582775723</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kotlin" />
     <MESSAGE value="coding tasks" />
     <MESSAGE value=" Greatest Common Divisor of Strings" />
     <MESSAGE value="Reverse Vowels of a String" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Contains Duplicates" />
     <MESSAGE value="Second  largest digit in a string" />
     <MESSAGE value="Third maximum element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third maximum element" />
+    <MESSAGE value="findMaxConsecutiveOnes" />
+    <option name="LAST_COMMIT_MESSAGE" value="findMaxConsecutiveOnes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
