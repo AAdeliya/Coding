@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="findMaxConsecutiveOnes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/reversedWord.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Reverse Words in a String III">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RotateString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00003" summary="SeamCarving algorithm">
-      <option name="closed" value="true" />
-      <created>1731472473549</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1731472473549</updated>
     </task>
     <task id="LOCAL-00004" summary="SeamCarving algorithm">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742582775723</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Reverse Words in a String III">
+      <option name="closed" value="true" />
+      <created>1742585996064</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1742585996065</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="coding tasks" />
     <MESSAGE value=" Greatest Common Divisor of Strings" />
     <MESSAGE value="Reverse Vowels of a String" />
     <MESSAGE value=" Is Subsequence" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Second  largest digit in a string" />
     <MESSAGE value="Third maximum element" />
     <MESSAGE value="findMaxConsecutiveOnes" />
-    <option name="LAST_COMMIT_MESSAGE" value="findMaxConsecutiveOnes" />
+    <MESSAGE value="Reverse Words in a String III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Words in a String III" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
