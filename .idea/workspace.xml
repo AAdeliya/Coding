@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Array Partition">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumCountofPositiveIntegerandNegativeInteger.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Maximum Count of Positive Integer and Negative Integer">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DuplicateZeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00006" summary="SeamCarving algorithm">
-      <option name="closed" value="true" />
-      <created>1731472721513</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1731472721513</updated>
     </task>
     <task id="LOCAL-00007" summary="SeamCarving algorithm">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742745928487</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Maximum Count of Positive Integer and Negative Integer">
+      <option name="closed" value="true" />
+      <created>1743086083593</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1743086083593</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Is Subsequence" />
     <MESSAGE value="Guess Number Higher or Lower" />
     <MESSAGE value="counting bits" />
     <MESSAGE value="ProductofArrayExceptSelf" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Reverse Words in a String III" />
     <MESSAGE value="rotate String" />
     <MESSAGE value="Array Partition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array Partition" />
+    <MESSAGE value="Maximum Count of Positive Integer and Negative Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum Count of Positive Integer and Negative Integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
