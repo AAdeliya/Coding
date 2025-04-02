@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Duplicate Zeros">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IsMonotonic.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Monotonic Array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindMissingandRepeatedValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00008" summary="SeamCarving algorithm">
-      <option name="closed" value="true" />
-      <created>1731557913169</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1731557913169</updated>
     </task>
     <task id="LOCAL-00009" summary="SeamCarving algorithm">
       <option name="closed" value="true" />
@@ -505,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743355110453</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Monotonic Array">
+      <option name="closed" value="true" />
+      <created>1743474308154</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1743474308154</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="counting bits" />
     <MESSAGE value="ProductofArrayExceptSelf" />
     <MESSAGE value="TrappingRainWater 2 approaches" />
     <MESSAGE value="Best Time to Buy and Sell Stock II" />
@@ -534,7 +534,8 @@
     <MESSAGE value="Array Partition" />
     <MESSAGE value="Maximum Count of Positive Integer and Negative Integer" />
     <MESSAGE value="Duplicate Zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Duplicate Zeros" />
+    <MESSAGE value="Monotonic Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monotonic Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
