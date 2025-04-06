@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Summary Ranges">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MajorityElementII.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Majority Element II">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumAscendingSubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00011" summary="relativeSortArray">
-      <option name="closed" value="true" />
-      <created>1733595898170</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1733595898170</updated>
     </task>
     <task id="LOCAL-00012" summary="relativeSortArray">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743605752142</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Majority Element II">
+      <option name="closed" value="true" />
+      <created>1743779963065</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1743779963066</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Best Time to Buy and Sell Stock II" />
     <MESSAGE value="Diagonal Traverse" />
     <MESSAGE value="Asteroids collision" />
     <MESSAGE value="game of live; bit manipulation, matrix, array" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Monotonic Array" />
     <MESSAGE value="Find Missing and Repeated Values" />
     <MESSAGE value="Summary Ranges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Summary Ranges" />
+    <MESSAGE value="Majority Element II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Majority Element II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
