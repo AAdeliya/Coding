@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Maximum Ascending Subarray Sum">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumProductSubarray.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Maximum Product Subarray">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubarrayProductLessThanK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00013" summary="GroupAnagram">
-      <option name="closed" value="true" />
-      <created>1734101522735</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1734101522735</updated>
     </task>
     <task id="LOCAL-00014" summary="GroupAnagram">
       <option name="closed" value="true" />
@@ -505,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743905787198</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Maximum Product Subarray">
+      <option name="closed" value="true" />
+      <created>1743999961306</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1743999961306</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Asteroids collision" />
     <MESSAGE value="game of live; bit manipulation, matrix, array" />
     <MESSAGE value="Best time to buy and sell stocks" />
     <MESSAGE value="First Missing positive" />
@@ -534,7 +534,8 @@
     <MESSAGE value="Summary Ranges" />
     <MESSAGE value="Majority Element II" />
     <MESSAGE value="Maximum Ascending Subarray Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maximum Ascending Subarray Sum" />
+    <MESSAGE value="Maximum Product Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum Product Subarray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
