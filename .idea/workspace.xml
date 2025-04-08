@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Maximum Product Subarray">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubarrayProductLessThanK.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Subarray Product Less than k">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PartitionArrayIntoThreePartsWithEqualSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00014" summary="GroupAnagram">
-      <option name="closed" value="true" />
-      <created>1736196029727</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1736196029727</updated>
     </task>
     <task id="LOCAL-00015" summary="LengthofLastWord">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743999961306</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Subarray Product Less than k">
+      <option name="closed" value="true" />
+      <created>1744056350063</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1744056350063</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="game of live; bit manipulation, matrix, array" />
     <MESSAGE value="Best time to buy and sell stocks" />
     <MESSAGE value="First Missing positive" />
     <MESSAGE value="This algorithm efficiently determines the smallest missing positive integer by using the existing array space to mark the presence of elements. The approach eliminates the need for additional space and provides an optimal solution to the problem." />
@@ -535,7 +534,8 @@
     <MESSAGE value="Majority Element II" />
     <MESSAGE value="Maximum Ascending Subarray Sum" />
     <MESSAGE value="Maximum Product Subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maximum Product Subarray" />
+    <MESSAGE value="Subarray Product Less than k" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subarray Product Less than k" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
