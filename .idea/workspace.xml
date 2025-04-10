@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Subarray Product Less than k">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PartitionArrayIntoThreePartsWithEqualSum.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Partition Array Into Three Parts With Equal Sum">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00015" summary="LengthofLastWord">
-      <option name="closed" value="true" />
-      <created>1736271404681</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1736271404681</updated>
     </task>
     <task id="LOCAL-00016" summary="another solution">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744056350063</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Partition Array Into Three Parts With Equal Sum">
+      <option name="closed" value="true" />
+      <created>1744122864773</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1744122864774</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Best time to buy and sell stocks" />
     <MESSAGE value="First Missing positive" />
     <MESSAGE value="This algorithm efficiently determines the smallest missing positive integer by using the existing array space to mark the presence of elements. The approach eliminates the need for additional space and provides an optimal solution to the problem." />
     <MESSAGE value="Minimum Moves to Equal Array Elements" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Maximum Ascending Subarray Sum" />
     <MESSAGE value="Maximum Product Subarray" />
     <MESSAGE value="Subarray Product Less than k" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subarray Product Less than k" />
+    <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Partition Array Into Three Parts With Equal Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
