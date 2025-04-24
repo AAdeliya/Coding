@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Partition Array Into Three Parts With Equal Sum">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Permutations.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Permutations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Paths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00016" summary="another solution">
-      <option name="closed" value="true" />
-      <created>1736271592929</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1736271592929</updated>
     </task>
     <task id="LOCAL-00017" summary="reverse string 2 solutions">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744122864774</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Permutations">
+      <option name="closed" value="true" />
+      <created>1744313233359</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1744313233359</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Missing positive" />
     <MESSAGE value="This algorithm efficiently determines the smallest missing positive integer by using the existing array space to mark the presence of elements. The approach eliminates the need for additional space and provides an optimal solution to the problem." />
     <MESSAGE value="Minimum Moves to Equal Array Elements" />
     <MESSAGE value="week 28 - recommended" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Maximum Product Subarray" />
     <MESSAGE value="Subarray Product Less than k" />
     <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partition Array Into Three Parts With Equal Sum" />
+    <MESSAGE value="Permutations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Permutations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
