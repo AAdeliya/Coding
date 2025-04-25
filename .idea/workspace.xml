@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Permutations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Paths.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Path Sum II">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IsBalanced.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,22 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00017" summary="reverse string 2 solutions">
-      <option name="closed" value="true" />
-      <created>1736349257415</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1736349257415</updated>
-    </task>
-    <task id="LOCAL-00018" summary="sliding window">
-      <option name="closed" value="true" />
-      <created>1736462126416</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1736462126416</updated>
     </task>
     <task id="LOCAL-00019" summary="sliding window - findMaxAverage">
       <option name="closed" value="true" />
@@ -506,12 +490,26 @@
       <option name="project" value="LOCAL" />
       <updated>1744313233359</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Path Sum">
+      <option name="closed" value="true" />
+      <created>1745504797097</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1745504797097</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Path Sum II">
+      <option name="closed" value="true" />
+      <created>1745588675038</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1745588675038</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This algorithm efficiently determines the smallest missing positive integer by using the existing array space to mark the presence of elements. The approach eliminates the need for additional space and provides an optimal solution to the problem." />
-    <MESSAGE value="Minimum Moves to Equal Array Elements" />
     <MESSAGE value="week 28 - recommended" />
     <MESSAGE value="Remove Duplicates from Sorted Array" />
     <MESSAGE value="Plus One" />
@@ -535,7 +533,9 @@
     <MESSAGE value="Subarray Product Less than k" />
     <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
     <MESSAGE value="Permutations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Permutations" />
+    <MESSAGE value="Path Sum" />
+    <MESSAGE value="Path Sum II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Path Sum II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
