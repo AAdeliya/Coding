@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="is balanced">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AssignCookies.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="assign cookies - two pointers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UniquePathsII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Contains Duplicate II">
-      <option name="closed" value="true" />
-      <created>1736899741316</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1736899741316</updated>
     </task>
     <task id="LOCAL-00021" summary="Breadth-First Search (BFS)">
       <option name="closed" value="true" />
@@ -505,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745608541327</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="assign cookies - two pointers">
+      <option name="closed" value="true" />
+      <created>1745876057093</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876057094</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove Duplicates from Sorted Array" />
     <MESSAGE value="Plus One" />
     <MESSAGE value="Pascal's Triangle" />
     <MESSAGE value="Build Array from Permutation" />
@@ -534,7 +534,8 @@
     <MESSAGE value="Path Sum" />
     <MESSAGE value="Path Sum II" />
     <MESSAGE value="is balanced" />
-    <option name="LAST_COMMIT_MESSAGE" value="is balanced" />
+    <MESSAGE value="assign cookies - two pointers" />
+    <option name="LAST_COMMIT_MESSAGE" value="assign cookies - two pointers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
