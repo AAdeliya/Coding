@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="unique path II">
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="unique path (recursion, dfs)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniquePaths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00022" summary="kotlin">
-      <option name="closed" value="true" />
-      <created>1737308240228</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1737308240228</updated>
     </task>
     <task id="LOCAL-00023" summary="coding tasks">
       <option name="closed" value="true" />
@@ -505,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745957443442</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="unique path (recursion, dfs)">
+      <option name="closed" value="true" />
+      <created>1746049431582</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049431582</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pascal's Triangle" />
     <MESSAGE value="Build Array from Permutation" />
     <MESSAGE value="Contains Duplicates" />
     <MESSAGE value="Second  largest digit in a string" />
@@ -534,7 +534,8 @@
     <MESSAGE value="is balanced" />
     <MESSAGE value="assign cookies - two pointers" />
     <MESSAGE value="unique path II" />
-    <option name="LAST_COMMIT_MESSAGE" value="unique path II" />
+    <MESSAGE value="unique path (recursion, dfs)" />
+    <option name="LAST_COMMIT_MESSAGE" value="unique path (recursion, dfs)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
