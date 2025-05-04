@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="5 different approaches for ClimbStairs.java">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AccountsMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00025" summary=" Greatest Common Divisor of Strings">
-      <option name="closed" value="true" />
-      <created>1740587255228</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1740587255228</updated>
     </task>
     <task id="LOCAL-00026" summary="Reverse Vowels of a String">
       <option name="closed" value="true" />
@@ -505,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746236520190</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="5 different approaches for ClimbStairs.java">
+      <option name="closed" value="true" />
+      <created>1746326863595</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1746326863595</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
