@@ -66,3 +66,6 @@ public int climbStairs(int n) {
     return (int) Math.round((Math.pow(phi, n + 1) - Math.pow(psi, n + 1)) / sqrt5);
 
 }
+
+public void main() {
+}

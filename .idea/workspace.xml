@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="unique path (recursion, dfs, combinatorial approach (binomial coefficient)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="5 different approaches for ClimbStairs.java">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClimbStairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00024" summary="coding tasks">
-      <option name="closed" value="true" />
-      <created>1740503721170</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1740503721170</updated>
     </task>
     <task id="LOCAL-00025" summary=" Greatest Common Divisor of Strings">
       <option name="closed" value="true" />
@@ -506,11 +497,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746051354841</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="5 different approaches for ClimbStairs.java">
+      <option name="closed" value="true" />
+      <created>1746236520190</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1746236520190</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Contains Duplicates" />
     <MESSAGE value="Second  largest digit in a string" />
     <MESSAGE value="Third maximum element" />
     <MESSAGE value="findMaxConsecutiveOnes" />
@@ -535,7 +533,8 @@
     <MESSAGE value="unique path II" />
     <MESSAGE value="unique path (recursion, dfs)" />
     <MESSAGE value="unique path (recursion, dfs, combinatorial approach (binomial coefficient)" />
-    <option name="LAST_COMMIT_MESSAGE" value="unique path (recursion, dfs, combinatorial approach (binomial coefficient)" />
+    <MESSAGE value="5 different approaches for ClimbStairs.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 different approaches for ClimbStairs.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
