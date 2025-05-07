@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="subsets">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubsetsII.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="subsetsII with duplicates">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PermutationUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,22 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00029" summary="counting bits">
-      <option name="closed" value="true" />
-      <created>1740810622551</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1740810622551</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ProductofArrayExceptSelf">
-      <option name="closed" value="true" />
-      <created>1740975167282</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1740975167282</updated>
     </task>
     <task id="LOCAL-00031" summary="TrappingRainWater 2 approaches">
       <option name="closed" value="true" />
@@ -505,11 +491,26 @@
       <option name="project" value="LOCAL" />
       <updated>1746553161567</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="subsetsII with duplicates">
+      <option name="closed" value="true" />
+      <created>1746576926068</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1746576926068</updated>
+    </task>
+    <task id="LOCAL-00079" summary="subsetsII with duplicates">
+      <option name="closed" value="true" />
+      <created>1746576935802</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1746576935803</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reverse Words in a String III" />
     <MESSAGE value="rotate String" />
     <MESSAGE value="Array Partition" />
     <MESSAGE value="Maximum Count of Positive Integer and Negative Integer" />
@@ -534,7 +535,8 @@
     <MESSAGE value="accounts merge (DSU)" />
     <MESSAGE value="isSameTree.java" />
     <MESSAGE value="subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="subsets" />
+    <MESSAGE value="subsetsII with duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="subsetsII with duplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
