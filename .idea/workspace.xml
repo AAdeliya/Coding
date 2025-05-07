@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="isSameTree.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="subsets">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubsetsII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Guess Number Higher or Lower">
-      <option name="closed" value="true" />
-      <created>1740771662916</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1740771662916</updated>
     </task>
     <task id="LOCAL-00029" summary="counting bits">
       <option name="closed" value="true" />
@@ -506,11 +497,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746504961544</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="subsets">
+      <option name="closed" value="true" />
+      <created>1746553161567</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1746553161567</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="findMaxConsecutiveOnes" />
     <MESSAGE value="Reverse Words in a String III" />
     <MESSAGE value="rotate String" />
     <MESSAGE value="Array Partition" />
@@ -535,7 +533,8 @@
     <MESSAGE value="5 different approaches for ClimbStairs.java" />
     <MESSAGE value="accounts merge (DSU)" />
     <MESSAGE value="isSameTree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="isSameTree.java" />
+    <MESSAGE value="subsets" />
+    <option name="LAST_COMMIT_MESSAGE" value="subsets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
