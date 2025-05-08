@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="subsetsII with duplicates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PermutationUnique.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="combinations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesfromSortedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,22 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00031" summary="TrappingRainWater 2 approaches">
-      <option name="closed" value="true" />
-      <created>1741041025292</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1741041025292</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Best Time to Buy and Sell Stock II">
-      <option name="closed" value="true" />
-      <created>1741097305553</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1741097305553</updated>
     </task>
     <task id="LOCAL-00033" summary="Diagonal Traverse">
       <option name="closed" value="true" />
@@ -507,12 +490,26 @@
       <option name="project" value="LOCAL" />
       <updated>1746576935803</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="permutations">
+      <option name="closed" value="true" />
+      <created>1746647462638</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1746647462638</updated>
+    </task>
+    <task id="LOCAL-00081" summary="combinations">
+      <option name="closed" value="true" />
+      <created>1746648281299</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1746648281299</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rotate String" />
-    <MESSAGE value="Array Partition" />
     <MESSAGE value="Maximum Count of Positive Integer and Negative Integer" />
     <MESSAGE value="Duplicate Zeros" />
     <MESSAGE value="Monotonic Array" />
@@ -536,7 +533,9 @@
     <MESSAGE value="isSameTree.java" />
     <MESSAGE value="subsets" />
     <MESSAGE value="subsetsII with duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="subsetsII with duplicates" />
+    <MESSAGE value="permutations" />
+    <MESSAGE value="combinations" />
+    <option name="LAST_COMMIT_MESSAGE" value="combinations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
