@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="combinations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesfromSortedList.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment=" Remove Duplicates from Sorted List">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Diagonal Traverse">
-      <option name="closed" value="true" />
-      <created>1741190669676</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1741190669676</updated>
     </task>
     <task id="LOCAL-00034" summary="Asteroids collision">
       <option name="closed" value="true" />
@@ -506,11 +499,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746648281299</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary=" Remove Duplicates from Sorted List">
+      <option name="closed" value="true" />
+      <created>1746742746691</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1746742746691</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Maximum Count of Positive Integer and Negative Integer" />
     <MESSAGE value="Duplicate Zeros" />
     <MESSAGE value="Monotonic Array" />
     <MESSAGE value="Find Missing and Repeated Values" />
@@ -535,7 +535,8 @@
     <MESSAGE value="subsetsII with duplicates" />
     <MESSAGE value="permutations" />
     <MESSAGE value="combinations" />
-    <option name="LAST_COMMIT_MESSAGE" value="combinations" />
+    <MESSAGE value=" Remove Duplicates from Sorted List" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Remove Duplicates from Sorted List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
