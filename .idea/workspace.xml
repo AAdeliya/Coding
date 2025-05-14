@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="add two numbers">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SortList.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="sort list">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InsertionSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KthLargestElementinanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Asteroids collision">
-      <option name="closed" value="true" />
-      <created>1741309464782</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1741309464782</updated>
     </task>
     <task id="LOCAL-00036" summary="game of live; bit manipulation, matrix, array">
       <option name="closed" value="true" />
@@ -505,11 +499,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746896256898</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="sort list">
+      <option name="closed" value="true" />
+      <created>1746987993887</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1746987993887</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Monotonic Array" />
     <MESSAGE value="Find Missing and Repeated Values" />
     <MESSAGE value="Summary Ranges" />
     <MESSAGE value="Majority Element II" />
@@ -534,7 +535,8 @@
     <MESSAGE value="combinations" />
     <MESSAGE value=" Remove Duplicates from Sorted List" />
     <MESSAGE value="add two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add two numbers" />
+    <MESSAGE value="sort list" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
