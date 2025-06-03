@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="matrix block">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RotateList.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="RotateList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestConsecutiveLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00039" summary="This algorithm efficiently determines the smallest missing positive integer by using the existing array space to mark the presence of elements. The approach eliminates the need for additional space and provides an optimal solution to the problem.">
-      <option name="closed" value="true" />
-      <created>1741547194624</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1741547194624</updated>
     </task>
     <task id="LOCAL-00040" summary="Minimum Moves to Equal Array Elements">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747352727817</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="RotateList">
+      <option name="closed" value="true" />
+      <created>1747450639237</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1747450639237</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Maximum Ascending Subarray Sum" />
     <MESSAGE value="Maximum Product Subarray" />
     <MESSAGE value="Subarray Product Less than k" />
     <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
@@ -535,7 +534,8 @@
     <MESSAGE value="quickselect" />
     <MESSAGE value="prefix sum" />
     <MESSAGE value="matrix block" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrix block" />
+    <MESSAGE value="RotateList" />
+    <option name="LAST_COMMIT_MESSAGE" value="RotateList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
