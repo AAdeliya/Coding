@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Longest Consecutive Sequence">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindtheDifferenceofTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="findDifference" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,14 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00041" summary="week 28 - recommended">
-      <option name="closed" value="true" />
-      <created>1741712271121</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1741712271121</updated>
     </task>
     <task id="LOCAL-00042" summary="week 28 - recommended">
       <option name="closed" value="true" />
@@ -506,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748963633189</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="findDifference">
+      <option name="closed" value="true" />
+      <created>1749224691930</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1749224691930</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Subarray Product Less than k" />
     <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="Path Sum" />
@@ -535,7 +531,8 @@
     <MESSAGE value="matrix block" />
     <MESSAGE value="RotateList" />
     <MESSAGE value="Longest Consecutive Sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest Consecutive Sequence" />
+    <MESSAGE value="findDifference" />
+    <option name="LAST_COMMIT_MESSAGE" value="findDifference" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
