@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="findDifference" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Search in a Binary Search Tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DeleteNodeinaBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00042" summary="week 28 - recommended">
-      <option name="closed" value="true" />
-      <created>1741712297329</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1741712297329</updated>
     </task>
     <task id="LOCAL-00043" summary="Remove Duplicates from Sorted Array">
       <option name="closed" value="true" />
@@ -503,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749224691930</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Search in a Binary Search Tree">
+      <option name="closed" value="true" />
+      <created>1749405928584</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1749405928584</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Partition Array Into Three Parts With Equal Sum" />
     <MESSAGE value="Permutations" />
     <MESSAGE value="Path Sum" />
     <MESSAGE value="Path Sum II" />
@@ -532,7 +534,8 @@
     <MESSAGE value="RotateList" />
     <MESSAGE value="Longest Consecutive Sequence" />
     <MESSAGE value="findDifference" />
-    <option name="LAST_COMMIT_MESSAGE" value="findDifference" />
+    <MESSAGE value="Search in a Binary Search Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search in a Binary Search Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
