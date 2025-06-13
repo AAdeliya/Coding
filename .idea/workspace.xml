@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Find Pivot Index">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UniqueNumberofOccurrences.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Unique Number of Occurrences">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DetermineifTwoStringsAreClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Pascal's Triangle">
-      <option name="closed" value="true" />
-      <created>1742248354683</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1742248354683</updated>
     </task>
     <task id="LOCAL-00046" summary="Build Array from Permutation">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749685252683</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Unique Number of Occurrences">
+      <option name="closed" value="true" />
+      <created>1749783955532</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1749783955532</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Path Sum II" />
     <MESSAGE value="is balanced" />
     <MESSAGE value="assign cookies - two pointers" />
     <MESSAGE value="unique path II" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Search in a Binary Search Tree" />
     <MESSAGE value="Delete Node in a BST" />
     <MESSAGE value="Find Pivot Index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Pivot Index" />
+    <MESSAGE value="Unique Number of Occurrences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unique Number of Occurrences" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
