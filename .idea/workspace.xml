@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Decode string">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeafSimilarTrees.java" afterDir="false" />
+    <list default="true" id="3e037861-edb2-430c-a59b-7e518a0605a3" name="Changes" comment="Leafs Similar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AddTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718329309676</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Third maximum element">
-      <option name="closed" value="true" />
-      <created>1742483261446</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1742483261446</updated>
     </task>
     <task id="LOCAL-00050" summary="Third maximum element">
       <option name="closed" value="true" />
@@ -506,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1750731830046</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Leafs Similar">
+      <option name="closed" value="true" />
+      <created>1753040494768</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1753040494768</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="unique path (recursion, dfs)" />
     <MESSAGE value="unique path (recursion, dfs, combinatorial approach (binomial coefficient)" />
     <MESSAGE value="5 different approaches for ClimbStairs.java" />
     <MESSAGE value="accounts merge (DSU)" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Determine if Two Strings Are Close" />
     <MESSAGE value="Removing Stars From a String" />
     <MESSAGE value="Decode string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decode string" />
+    <MESSAGE value="Leafs Similar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leafs Similar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

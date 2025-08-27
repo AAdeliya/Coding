@@ -1,8 +1,10 @@
 package org.example;
 
+import java.lang.classfile.components.ClassPrinter;
+
 public class AddTwoNumbers {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0);
+    public ClassPrinter.ListNode addTwoNumbers(ClassPrinter.ListNode l1, ClassPrinter.ListNode l2) {
+        ClassPrinter.ListNode dummy = new ClassPrinter.ListNode(0);
         ListNode current = dummy;
         int carry = 0;
 
